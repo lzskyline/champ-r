@@ -7,7 +7,7 @@
 
 [中文文档](./README_zh.md)
 
-Yet another League of Legends helper.
+Yet another League of Legends helper.~
 
 [App icon](https://www.flaticon.com/free-icon/dog_2767976), credits to [flaticon.com](https://www.flaticon.com/).
 
